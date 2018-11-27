@@ -1,0 +1,6 @@
+LD R0, A
+SUB R0, B
+LD R1, A
+SUB R1, C
+ADD R0, R1
+ADD R0, R1
